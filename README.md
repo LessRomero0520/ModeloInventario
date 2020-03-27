@@ -1,2 +1,0 @@
-# ModeloInventario
-Modelos de inventario
